@@ -11,10 +11,6 @@ TensorFlow: Framework for building and training machine learning models.
 Keras: High-level API for neural networks in TensorFlow.
 OpenCV: Library for computer vision and image processing.
 NumPy: Library for numerical operations and array handling.
-Clone this repository:
-git clone https://github.com/PraganayakiTamilselvan/Human-face-emotion-detection.git
-Navigate to the project directory:
-cd Human-face-emotion-detection
 Install the required Python packages:
 pip install -r requirements.txt
 Prepare your dataset or use the provided sample images.
